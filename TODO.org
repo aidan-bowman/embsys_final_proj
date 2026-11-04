@@ -1,0 +1,21 @@
+#+TITLE: Embedded Systems Lab Final Project
+#+STARTUP: OVERVIEW
+#+TODO: TODO(t) NEXT(n) INPROG(i) WAITING(w) | DONE(d)
+#+TAGS: aj(a) vivian(v)
+
+
+* Project Plan
+The plan is to design the chip to play Tic-Tac-Toe.
+The display is used to actually display the game.
+The joystick is used to select a square.
+The buzzer is used to display a sound on each move, or the game being won.
+
+ideas:
+maybe Ultimate Tic-Tac-Toe? (https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe)
+* To-do list
+** NEXT delete unused code from program                                  :aj:
+** TODO make functions to read joystick (half-completed)
+** TODO make functions to write to display
+** TODO make functions to play noises at buzzer
+** TODO write game logic
+** TODO debug
