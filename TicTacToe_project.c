@@ -1,3 +1,4 @@
+Vi and AJ project tictactoe_project_embedded
 #include <msp430.h>
 #include <stdint.h>
 
